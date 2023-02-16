@@ -1,3 +1,3 @@
 def foo():
-    '''hhh'''
+    '''function'''
     pass
